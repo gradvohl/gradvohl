@@ -1,4 +1,7 @@
 ### Hi there 👋. I'm Andre Gradvohl.
+![Comp.Sci.Badge](https://img.shields.io/badge/Computer%20Science-Professor-blue?style=plastic) 
+![Comp.Rsh.Badge](https://img.shields.io/badge/Computer%20Science-Researcher-brightgreen?style=plastic) 
+![SpaceWeather.Badge](https://img.shields.io/badge/Space%20Weather-Researcher-brightgreen?style=plastic)
 
 I'm a professor at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br). I teach classes in the following topics:
 
@@ -22,3 +25,7 @@ Finally, here are some programming languages, libraries,  and tools that I'm flu
  - Pthreads, OpenMP, MPI, OpenACC;
  - Linux in general and bash in particular;
  - LaTeX.
+
+Some statistics about the programming languagens I use.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradvohl&layout=compact)](https://github.com/gradvohl)
