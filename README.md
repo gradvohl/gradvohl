@@ -8,6 +8,7 @@ I'm a professor at the [School of Technology](https://www.ft.unicamp.br) at the 
  - Operating Systems.
  - Computer Organization and Architecture.
  - Computer and Information Security.
+ - Computer Networks.
  - High-Performance Computing.
 
 Besides, I'm a researcher and graduate student advisor. Some of my research topics are the following:
